@@ -1,2 +1,2 @@
 # AIGems-RM
-KubeGems PAI 算力调度平台
+这是个公开仓库，且仅用于AIGems RoadMap项目管理
